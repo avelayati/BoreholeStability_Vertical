@@ -1,2 +1,3 @@
 # BoreholeStability_Vertical
-Determine Pmud for avoiding shear breakouts and finding Pb for producing tensile fracs 
+Determine Pmud required to form shear breakouts and finding Pb (Breakdown pressure, Note: Pb =/= s3) for producing tensile fracs in vertical wells.
+Effect of thermal stress is also considered in finding Pb.
